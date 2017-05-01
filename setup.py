@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
       name='biclustering',
       version=1.0,
-      #url='http://scrapy.org',
+      url='https://github.com/XingyuYan/biclustering',
       description='Implementation of Sparse Singular Value Decomposition',
       # long_description=open('README').read(),
       author='Xinyu Yan, Yijun Jiang',
