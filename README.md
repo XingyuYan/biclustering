@@ -1,5 +1,6 @@
 # biclustering
-ssvd function
+The main function is the ssvd function, which implements sparse singular value decomposition. 
+
 Input variables: 
 * X = n by d matrix
 * gamu = weight parameter in adaptive lasso for the left singular vector
