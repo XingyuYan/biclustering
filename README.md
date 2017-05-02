@@ -1,5 +1,7 @@
 # biclustering
 The main function is the ssvd function, which implements sparse singular value decomposition. 
+To install the package in Jupyter notebook, please use
+"!pip install git+git://github.com/XingyuYan/biclustering.git".
 
 Input variables: 
 * X = n by d matrix
